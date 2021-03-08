@@ -1,0 +1,43 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #403F48;
+  font-weight: 600;
+  text-align: left;
+}
+
+.component{
+  padding: 25px;
+  border: 2px solid rgb(179, 179, 179);
+  margin: 10px 0;
+}
+
+.green{
+  color: #596C68;
+}
+
+.light-green{
+  color: #95A792;
+}
+
+.pink{
+  color: #F38181;
+}
+
+.button{
+  background-color: #FBFBFB;
+  padding: 5px 10px;
+  border-radius: 20px;
+  outline: none;
+  border: 2px solid #596C68;
+  color: #596C68;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.header-version{
+  height: 40px;
+  border-bottom: 10px solid black;
+}
