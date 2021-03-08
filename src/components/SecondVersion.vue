@@ -1,6 +1,6 @@
 <template>
   <div class="first-version">
-    <div class="header-version pink">2. Если НЕ ХОТИМ вызывать validate у всех компонентов </div>
+    <div class="header-version">2. Если <span class="pink">НЕ ХОТИМ</span> вызывать validate у всех компонентов </div>
       <!--  1 --><validate-component-second>
           <some-component>
               <div>

@@ -1,6 +1,6 @@
 <template>
   <div class="first-version">
-    <div class="header-version pink">1. Если ХОТИМ вызывать validate у вложенных компонентов</div>
+    <div class="header-version">1. Если <span class="pink">ХОТИМ</span> вызывать validate у вложенных компонентов</div>
       <!--  1 --><validate-component-first>
           <some-component>
               <div>
